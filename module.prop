@@ -1,6 +1,6 @@
 id=post_call_speaker_fixer
 name=Post Call Speaker Fixer
 author=VC365
-description=Automatically restores audio to the main speaker when it gets stuck on the earpiece after a phone call.
+description=Fixes stuck earpiece audio after phone calls by restarting audio service when a routing issue is detected.
 version=v1.0.0
 versionCode=1
